@@ -1,0 +1,11 @@
+name: Realm
+version: 0.0.4
+description: Plugin de gestion du royaume d'elydor
+authors: [Breci]
+
+main: fr.breci.Realm.Realm
+
+commands:
+   realm:
+      description: realm command.
+      usage: /<command> claim id
